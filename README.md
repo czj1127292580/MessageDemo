@@ -1,4 +1,4 @@
 # MessageDemo
 iOS10新特性-iMessage application
 
-![image](https://github.com/czj1127292580/MessageDemo.git/demo.gif)
+<img src="https://raw.githubusercontent.com/czj1127292580/MessageDemo/master/MessageDemo/demo.gif"  width=200 height=350 />
